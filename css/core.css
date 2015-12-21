@@ -20,7 +20,7 @@ html,body {
 
 a {
 	font-weight: 700;
-	color: #F7C723;
+	color: #19B5FE;
 	/*fix dotted line*/
 	outline: 0;
 }
@@ -50,7 +50,7 @@ hr {
 	border-top: 1px solid #ccc;
 }
 ::selection {
-  background: #F7C723; 
+  background: #19B5FE;
 }
 
 .lead {
@@ -303,7 +303,7 @@ section {
 
 
 .color-text {
-	color: #F7C723;
+	color: #19B5FE;
 }
 	
 .white-text {
@@ -325,7 +325,7 @@ section {
     width: 100%;
     height: 100%;
     opacity: .6;
-    background-color: #F7C723;
+    background-color: #19B5FE;
 }
 .dark-overlay {
     position: absolute;
@@ -347,7 +347,7 @@ section {
 }
 @media (max-width: 767px) {
 /*	.bg-image-2 {
-		 background: #F7C723 url(../img/mockup5.png)  no-repeat 20% center;
+		 background: #19B5FE url(../img/mockup5.png)  no-repeat 20% center;
 		 !*background-size: cover;*!
 	}*/
 }
@@ -472,7 +472,7 @@ section {
 .hero-start-link:hover {
 	/*background: #FFF;*/
 	/*border-color: #FFF;*/
-	color:#F7C723;
+	color:#19B5FE;
 	text-decoration: none;
 }
 
@@ -550,14 +550,14 @@ section {
 	text-decoration: none;
 	outline: none !important;
 	position: relative;
-	background: #F7C723;
+	background: #19B5FE;
 	color: #202020;
 	border-radius: 4px;
 	font-weight: 600;
 	letter-spacing: 1px;
-	-webkit-box-shadow: 0 4px 0 #ECB709;
-    -moz-box-shadow: 0 4px 0 #ECB709;
-    box-shadow: 0 4px 0 #ECB709;
+    /*-webkit-box-shadow: 0 4px 0 #ECB709;*/
+    /*-moz-box-shadow: 0 4px 0 #ECB709;*/
+    /*box-shadow: 0 4px 0 #ECB709;*/
 
 }
 .btn:hover,
@@ -594,15 +594,15 @@ section {
 /* Button outline */
 .btn.outline {
 	background: transparent;
-	border: 2px solid #F7C723;
+	border: 2px solid #19B5FE;
 	box-shadow: none;
-	color: #F7C723;
+	color: #19B5FE;
 	text-decoration: none;
 }
 .btn.outline:hover,
 .btn.outline:focus {
-	background: #F7C723;
-	border-color: #F7C723;
+	background: #19B5FE;
+	border-color: #19B5FE;
 	color:#FFF;
 	top:0;
 	text-decoration: none;
